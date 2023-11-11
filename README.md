@@ -4,13 +4,13 @@
 
 [Project Overview][1]
 
-[1]:https://github.com/
+[1]:[https://github.com/](https://github.com/chchbuff/AESD_Final_Project/blob/main/README.md)
 
 # Project Schedule
 
 [Project Schedule][2]
 
-[2]:https://github.com/
+[2]:[https://github.com/](https://github.com/users/chchbuff/projects/3/views/1)https://github.com/users/chchbuff/projects/3/views/1
 
 # Team Members
 
