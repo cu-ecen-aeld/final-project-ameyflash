@@ -4,7 +4,7 @@
 
 [Project Overview][1]
 
-[1]:https://github.com/chchbuff/AESD_Final_Project/blob/main/README.md
+[1]:https://github.com/chchbuff/AESD_Final_Project/wiki/Project-Overview
 
 # Project Schedule
 
