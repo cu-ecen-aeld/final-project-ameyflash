@@ -3,14 +3,18 @@
 
 case "$1" in
     start)
-        echo "Starting init script for I2C modules"
+        echo "Starting init script for I2C and SPI modules"
         modprobe i2c-dev
         modprobe i2c-bcm2835
+        modprobe spi_bcm2835
+        modprobe spidev
     ;;
     stop)
-        echo "Removing I2C modules"
+        echo "Removing I2C and SPI modules"
         rmmod i2c-bcm2835
         rmmod i2c-dev
+        rmmod spi_bcm2835
+        rmmod spidev
     ;;
     *)
     echo "Usage: $0 {start|stop}"
